@@ -1,6 +1,6 @@
 ## FoodHub-Order-Analysis
 
-<img src="https://github.com/Nkunim2023/INN-Hotels/blob/main/INN%20Hotel.png?raw=true" alt=" ReneWind Project"/>
+<img src="https://github.com/Nkunim2023/FoodHub-Order-Analysis/blob/main/Foodhub.png?raw=true" alt=" FoodHub-Order-Analysis Project"/>
 
 <h2>Business Problem Overview and Solution Approach</h2>
 <p>The number of restaurants in New York is increasing day by day. Lots of students and busy professionals rely on those restaurants due to their hectic lifestyles. Online food delivery service is a great option for them. It provides them with good food from their favorite restaurants. A food aggregator company FoodHub offers access to multiple restaurants through a single smartphone app.</p>
